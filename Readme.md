@@ -1,15 +1,16 @@
-# 👋 Ciao, sono Barbara  
+#  Ciao,sono Barbara  
 
-## 🚀 In viaggio verso l'esplorazione del cosmo attraverso i dati
+## 🚀 in viaggio verso l'esplorazione del cosmo attraverso i dati
 
 🔭 **Sguardo**: dalla lontana M51 al vicino Titano - ogni mistero aspetta di essere svelato attraverso i suoi dati  
 💡 **Superpotere**: Trovare connessioni tra discipline diverse - da qui arrivano le idee migliori, come stelle che nascono da una nebulosa
+
 
 Mi sto reinventando professionalmente dopo anni di esperienza nel settore della logistica. Oggi sto completando un percorso post-diploma come **Big Data Engineer & Solutions Architect**, dove ho acquisito competenze tecniche solide e una visione moderna del mondo dei dati e dell’innovazione.
 
 ---
 
-## 🚀 Cosa mi appassiona
+## ✨ Cosa mi appassiona
 
 - 🌌 Astronomia e fisica
 - 📊 Data Science e Machine Learning
@@ -37,3 +38,11 @@ Mi sto reinventando professionalmente dopo anni di esperienza nel settore della 
 - [Artificial Intelligence Fundamentals (2024)](https://skills.yourlearning.ibm.com/activity/PLAN-6AB781CCED54)
 
 ---
+
+## 🌐 Contatti
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/barbara-geroli-09796766/)
+
+---
+
+Mi piace affrontare ogni progetto con curiosità, spirito pratico e un pizzico di entusiasmo. Mi fa sempre piacere entrare in contatto con chi condivide interessi simili; scrivimi pure se ti va di condividere idee, progetti o semplicemente fare due chiacchiere. 
